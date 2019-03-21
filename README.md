@@ -44,6 +44,7 @@
 * [epoll和select区别][10]
 * [uwsgi_read_timeout超时处理][17]
 * [Stick Session][28]
+* [聊聊端口复用的实现和坑点][29]
 
 ## 分布式系统
 * [CAP和一致性模型: CAP和BASE简介][21]
@@ -79,6 +80,7 @@
 [26]: https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489787&amp;idx=1&amp;sn=9433cc3cb0175c1d041fbf8362b730fd&source=41#wechat_redirect
 [27]: http://harish11g.blogspot.com/2013/04/Understanding-Amazon-Elastic-block-store-Performance-Tuning-IO-Block-Size.html
 [28]: https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions
+[29]: http://mobile.51cto.com/hot-557084.htm
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
