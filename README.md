@@ -32,6 +32,7 @@
 * [10个有RESTful API良好设计的最佳实践][14]
 * [RESTful API 设计最佳实践][15]
 * [JSON Web Token 入门教程][16]
+* [细说API – 认证、授权和凭证][30]
 
 ## 服务治理QoS
 * [服务治理---限流（令牌桶算法）][4]
@@ -81,6 +82,7 @@
 [27]: http://harish11g.blogspot.com/2013/04/Understanding-Amazon-Elastic-block-store-Performance-Tuning-IO-Block-Size.html
 [28]: https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions
 [29]: http://mobile.51cto.com/hot-557084.htm
+[30]: https://insights.thoughtworks.cn/api-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
