@@ -25,6 +25,8 @@
 ## 数据库
 * [数据库索引原理及优化][3]
 * [RDS -> Part 10: Performance Tuning Amazon Elastic Block Store - IO Block Size][27]
+* [分布式事务的实现原理][31]
+* [『浅入深出』MySQL 中事务的实现][32]
 
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
@@ -83,6 +85,8 @@
 [28]: https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions
 [29]: http://mobile.51cto.com/hot-557084.htm
 [30]: https://insights.thoughtworks.cn/api-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+[31]: https://draveness.me/distributed-transaction-principle.html
+[32]: https://draveness.me/mysql-transaction
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
