@@ -28,6 +28,7 @@
 * [Mysql四种事务隔离级别][33]
 * [分布式事务的实现原理][31]
 * [『浅入深出』MySQL 中事务的实现][32]
+* [轻松理解MYSQL MVCC 实现机制][34]
 
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
@@ -89,6 +90,7 @@
 [31]: https://draveness.me/distributed-transaction-principle.html
 [32]: https://draveness.me/mysql-transaction
 [33]: https://mp.weixin.qq.com/s/bxk0RItD-6pdTs5SX6vSsw
+[34]: https://blog.csdn.net/whoamiyang/article/details/51901888
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
