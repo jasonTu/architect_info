@@ -29,6 +29,8 @@
 * [分布式事务的实现原理][31]
 * [『浅入深出』MySQL 中事务的实现][32]
 * [轻松理解MYSQL MVCC 实现机制][34]
+* [理解innodb的锁(record,gap,Next-Key lock)][35]
+* [悲观锁，乐观锁，行锁，表锁，页锁，共享锁，排他锁][36]
 
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
@@ -91,6 +93,8 @@
 [32]: https://draveness.me/mysql-transaction
 [33]: https://mp.weixin.qq.com/s/bxk0RItD-6pdTs5SX6vSsw
 [34]: https://blog.csdn.net/whoamiyang/article/details/51901888
+[35]: https://blog.csdn.net/cug_jiang126com/article/details/50596729 
+[36]: https://blog.csdn.net/xiangwanpeng/article/details/55106732
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
