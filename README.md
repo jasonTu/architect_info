@@ -25,6 +25,7 @@
 ## 数据库
 * [数据库索引原理及优化][3]
 * [RDS -> Part 10: Performance Tuning Amazon Elastic Block Store - IO Block Size][27]
+* [Mysql四种事务隔离级别][33]
 * [分布式事务的实现原理][31]
 * [『浅入深出』MySQL 中事务的实现][32]
 
@@ -87,6 +88,7 @@
 [30]: https://insights.thoughtworks.cn/api-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 [31]: https://draveness.me/distributed-transaction-principle.html
 [32]: https://draveness.me/mysql-transaction
+[33]: https://mp.weixin.qq.com/s/bxk0RItD-6pdTs5SX6vSsw
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
