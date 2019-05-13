@@ -31,6 +31,8 @@
 * [轻松理解MYSQL MVCC 实现机制][34]
 * [理解innodb的锁(record,gap,Next-Key lock)][35]
 * [悲观锁，乐观锁，行锁，表锁，页锁，共享锁，排他锁][36]
+* [主键与聚集索引的区别][37]
+* [主键就是聚集索引吗？][38]
 
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
@@ -95,6 +97,8 @@
 [34]: https://blog.csdn.net/whoamiyang/article/details/51901888
 [35]: https://blog.csdn.net/cug_jiang126com/article/details/50596729 
 [36]: https://blog.csdn.net/xiangwanpeng/article/details/55106732
+[37]: https://blog.csdn.net/ii0789789789/article/details/79736392
+[38]: https://www.cnblogs.com/lj820403/p/7246657.html
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
