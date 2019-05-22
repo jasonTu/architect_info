@@ -38,6 +38,9 @@
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
 
+## 负载均衡技术
+* [Linux服务器集群系统（一）(原作者博客)][41]
+
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
 * [RESTful API 设计指南][13]
@@ -105,6 +108,7 @@
 [38]: https://www.cnblogs.com/lj820403/p/7246657.html
 [39]: https://blog.csdn.net/dc_726/article/details/8576151
 [40]: https://www.shellhacks.com/linux-proxy-server-settings-set-proxy-command-line/
+[41]: http://www.linuxvirtualserver.org/zh/lvs1.html
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
