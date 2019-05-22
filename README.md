@@ -41,6 +41,7 @@
 ## 负载均衡技术
 * [Linux服务器集群系统（一）(原作者博客)][41]
 * [LVS原理介绍][42]
+* [HAProxy从零开始到掌握][43]
 
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
@@ -111,6 +112,7 @@
 [40]: https://www.shellhacks.com/linux-proxy-server-settings-set-proxy-command-line/
 [41]: http://www.linuxvirtualserver.org/zh/lvs1.html
 [42]: https://www.jianshu.com/p/8a61de3f8be9
+[43]: https://www.jianshu.com/p/c9f6d55288c0
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
