@@ -64,6 +64,9 @@
 * [Stick Session][28]
 * [聊聊端口复用的实现和坑点][29]
 
+## 高可用
+* [Keepalived & LVS 搭建高可用的Web服务][44]
+
 ## 分布式系统
 * [CAP和一致性模型: CAP和BASE简介][21]
 
@@ -113,6 +116,7 @@
 [41]: http://www.linuxvirtualserver.org/zh/lvs1.html
 [42]: https://www.jianshu.com/p/8a61de3f8be9
 [43]: https://www.jianshu.com/p/c9f6d55288c0
+[44]: https://segmentfault.com/a/1190000016294818
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
