@@ -68,7 +68,8 @@
 * [Keepalived & LVS 搭建高可用的Web服务][44]
 
 ## 分布式系统
-* [CAP和一致性模型: CAP和BASE简介][21]
+* [CAP和一致性模型: CAP和BASE简介][21] 
+* [Session一致性][45]
 
 ## 基础设施
 * [CentOS7 Samba搭建][12]
@@ -117,6 +118,8 @@
 [42]: https://www.jianshu.com/p/8a61de3f8be9
 [43]: https://www.jianshu.com/p/c9f6d55288c0
 [44]: https://segmentfault.com/a/1190000016294818
+[45]: https://www.jianshu.com/p/d6d0cd4fae6e
+
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
