@@ -34,6 +34,7 @@
 * [主键与聚集索引的区别][37]
 * [主键就是聚集索引吗？][38]
 * [MySQL锁定状态查看命令][39]
+* [MySQL索引为什么要用B+树实现？][47]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -121,6 +122,7 @@
 [44]: https://segmentfault.com/a/1190000016294818
 [45]: https://www.jianshu.com/p/d6d0cd4fae6e
 [46]: https://blog.csdn.net/u011489043/article/details/78944985
+[47]: https://juejin.im/entry/5bc1ea0a5188255c2f424209
 
 
 [100]: https://github.com/nwjs/nw.js/
