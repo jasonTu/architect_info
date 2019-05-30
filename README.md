@@ -70,6 +70,7 @@
 ## 分布式系统
 * [CAP和一致性模型: CAP和BASE简介][21] 
 * [Session一致性][45]
+* [分布式一致性hash算法][46]
 
 ## 基础设施
 * [CentOS7 Samba搭建][12]
@@ -119,6 +120,7 @@
 [43]: https://www.jianshu.com/p/c9f6d55288c0
 [44]: https://segmentfault.com/a/1190000016294818
 [45]: https://www.jianshu.com/p/d6d0cd4fae6e
+[46]: https://blog.csdn.net/u011489043/article/details/78944985
 
 
 [100]: https://github.com/nwjs/nw.js/
