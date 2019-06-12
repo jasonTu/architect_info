@@ -36,6 +36,7 @@
 * [MySQL锁定状态查看命令][39]
 * [MySQL索引为什么要用B+树实现？][47]
 * [浅析数据库与缓存的双写一致性问题][48]
+* [10分钟上手图数据库Neo4j][49]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -125,6 +126,7 @@
 [46]: https://blog.csdn.net/u011489043/article/details/78944985
 [47]: https://juejin.im/entry/5bc1ea0a5188255c2f424209
 [48]: https://www.jianshu.com/p/a0d8a1dd9bc7
+[49]: https://www.jianshu.com/p/97c6752e928b
 
 
 [100]: https://github.com/nwjs/nw.js/
