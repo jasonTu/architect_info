@@ -37,6 +37,7 @@
 * [MySQL索引为什么要用B+树实现？][47]
 * [浅析数据库与缓存的双写一致性问题][48]
 * [10分钟上手图数据库Neo4j][49]
+* [带你发现新大陆！什么是图数据库以及简单入门！][50]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -127,6 +128,7 @@
 [47]: https://juejin.im/entry/5bc1ea0a5188255c2f424209
 [48]: https://www.jianshu.com/p/a0d8a1dd9bc7
 [49]: https://www.jianshu.com/p/97c6752e928b
+[50]: https://blog.csdn.net/xlgen157387/article/details/79085901
 
 
 [100]: https://github.com/nwjs/nw.js/
