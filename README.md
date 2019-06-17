@@ -17,6 +17,7 @@
 * [微服务数据管理（译）：共享数据库模式][19]
 * [微服务数据管理（译）：每个服务一个数据库模式][20]
 * [Patterns: Microservice architecture][25]
+* [微服务部署：蓝绿部署、滚动部署、灰度发布、金丝雀发布][51]
 
 ## AWS
 * [AWS学习笔记(七)--集成SQS和Lambda][23]
@@ -129,6 +130,7 @@
 [48]: https://www.jianshu.com/p/a0d8a1dd9bc7
 [49]: https://www.jianshu.com/p/97c6752e928b
 [50]: https://blog.csdn.net/xlgen157387/article/details/79085901
+[51]: https://www.jianshu.com/p/022685baba7d
 
 
 [100]: https://github.com/nwjs/nw.js/
