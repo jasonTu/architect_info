@@ -40,6 +40,7 @@
 * [10分钟上手图数据库Neo4j][49]
 * [带你发现新大陆！什么是图数据库以及简单入门！][50]
 * [Mysql：命令选项、配置选项、（全局、会话）系统变量、状态变量：如何使用系统变量?][52]
+* [MySQL · 答疑解惑 · set names 都做了什么][53]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -133,6 +134,7 @@
 [50]: https://blog.csdn.net/xlgen157387/article/details/79085901
 [51]: https://www.jianshu.com/p/022685baba7d
 [52]: https://www.cnblogs.com/jinzhenshui/archive/2009/06/13/1502563.html
+[53]: http://mysql.taobao.org/monthly/2015/05/07/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
