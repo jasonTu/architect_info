@@ -39,6 +39,7 @@
 * [浅析数据库与缓存的双写一致性问题][48]
 * [10分钟上手图数据库Neo4j][49]
 * [带你发现新大陆！什么是图数据库以及简单入门！][50]
+* [Mysql：命令选项、配置选项、（全局、会话）系统变量、状态变量：如何使用系统变量?][52]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -131,7 +132,7 @@
 [49]: https://www.jianshu.com/p/97c6752e928b
 [50]: https://blog.csdn.net/xlgen157387/article/details/79085901
 [51]: https://www.jianshu.com/p/022685baba7d
-
+[52]: https://www.cnblogs.com/jinzhenshui/archive/2009/06/13/1502563.html
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
