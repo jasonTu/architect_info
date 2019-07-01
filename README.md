@@ -74,6 +74,9 @@
 ## 高可用
 * [Keepalived & LVS 搭建高可用的Web服务][44]
 
+## Git
+* [Mind the End of Your Line][54]
+
 ## 分布式系统
 * [CAP和一致性模型: CAP和BASE简介][21] 
 * [Session一致性][45]
@@ -135,6 +138,7 @@
 [51]: https://www.jianshu.com/p/022685baba7d
 [52]: https://www.cnblogs.com/jinzhenshui/archive/2009/06/13/1502563.html
 [53]: http://mysql.taobao.org/monthly/2015/05/07/
+[54]: https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
