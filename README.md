@@ -77,6 +77,7 @@
 
 ## Git
 * [Mind the End of Your Line][54]
+* [一篇文章搞定Github API 调用 (v3）][56]
 
 ## 分布式系统
 * [CAP和一致性模型: CAP和BASE简介][21] 
@@ -141,6 +142,7 @@
 [53]: http://mysql.taobao.org/monthly/2015/05/07/
 [54]: https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
 [55]: https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
+[56]: https://www.jianshu.com/p/a0c7d0482415
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
