@@ -41,6 +41,7 @@
 * [带你发现新大陆！什么是图数据库以及简单入门！][50]
 * [Mysql：命令选项、配置选项、（全局、会话）系统变量、状态变量：如何使用系统变量?][52]
 * [MySQL · 答疑解惑 · set names 都做了什么][53]
+* [当我们输入一条 SQL 查询语句时，发生了什么？][55]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -139,6 +140,7 @@
 [52]: https://www.cnblogs.com/jinzhenshui/archive/2009/06/13/1502563.html
 [53]: http://mysql.taobao.org/monthly/2015/05/07/
 [54]: https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
+[55]: https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
