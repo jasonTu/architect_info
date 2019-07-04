@@ -18,6 +18,8 @@
 * [微服务数据管理（译）：每个服务一个数据库模式][20]
 * [Patterns: Microservice architecture][25]
 * [微服务部署：蓝绿部署、滚动部署、灰度发布、金丝雀发布][51]
+* [kubernetes 1.13 全新安装指南][58]
+* [Kubenetes-Hello World][59]
 
 ## AWS
 * [AWS学习笔记(七)--集成SQS和Lambda][23]
@@ -145,6 +147,8 @@
 [55]: https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
 [56]: https://www.jianshu.com/p/a0c7d0482415
 [57]: https://www.percona.com/blog/2017/05/08/chasing-a-hung-transaction-in-mysql-innodb-history-length-strikes-back/
+[58]: https://juejin.im/post/5c9a49ace51d456c9d78dbef
+[59]: http://www.zhangrenhua.com/2019/01/03/Kubenetes-Hello%20World/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
