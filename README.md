@@ -54,6 +54,9 @@
 * [LVS原理介绍][42]
 * [HAProxy从零开始到掌握][43]
 
+## 消息队列
+* [Kafka、RabbitMQ、RocketMQ等消息中间件的介绍和对比][61]
+
 ## RESTful API
 * [关于 RESTFUL API 安全认证方式的一些总结][11]
 * [RESTful API 设计指南][13]
@@ -153,6 +156,7 @@
 [58]: https://juejin.im/post/5c9a49ace51d456c9d78dbef
 [59]: http://www.zhangrenhua.com/2019/01/03/Kubenetes-Hello%20World/
 [60]: https://arthurchiao.github.io/blog/amazon-dynamo-zh/
+[61]: https://blog.csdn.net/yunfeng482/article/details/72856762
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
