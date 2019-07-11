@@ -69,6 +69,9 @@
 * [在C/C++代码中使用windows性能监视器(pdh)][8]
 * [Browsing Performance Counters][9]
 
+## 架构参考
+* [[译] [论文] Dynamo: Amazon's Highly Available Key-value Store（SOSP 2007）][60]
+
 ## 高并发
 * [epoll和select区别][10]
 * [uwsgi_read_timeout超时处理][17]
@@ -149,6 +152,7 @@
 [57]: https://www.percona.com/blog/2017/05/08/chasing-a-hung-transaction-in-mysql-innodb-history-length-strikes-back/
 [58]: https://juejin.im/post/5c9a49ace51d456c9d78dbef
 [59]: http://www.zhangrenhua.com/2019/01/03/Kubenetes-Hello%20World/
+[60]: https://arthurchiao.github.io/blog/amazon-dynamo-zh/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
