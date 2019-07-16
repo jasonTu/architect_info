@@ -55,6 +55,7 @@
 * [Which module for Nginx is the best for HTTP PUSH? [closed]][64]
 * [Polling vs SSE vs WebSocket— How to choose the right one][65]
 * [Do you really need WebSockets?][66]
+* [websocket 番外篇之 nginx-push-stream-module 模块][67]
 
 ## 负载均衡技术
 * [Linux服务器集群系统（一）(原作者博客)][41]
@@ -169,6 +170,7 @@
 [64]: https://stackoverflow.com/questions/7815945/which-module-for-nginx-is-the-best-for-http-push
 [65]: https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9?gi=3dedf94648fe
 [66]: https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b
+[67]: https://www.qiuzhi99.com/articles/websocket-wai-pian-nginx-push-stream-module-mo
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
