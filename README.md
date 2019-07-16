@@ -49,6 +49,13 @@
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
 
+## Server Push
+* [Nginx-push-stream-model(基于comet和PHP的webIM实现)][62]
+* [nchan vs nginx-push-stream-module?][63]
+* [Which module for Nginx is the best for HTTP PUSH? [closed]][64]
+* [Polling vs SSE vs WebSocket— How to choose the right one][65]
+* [Do you really need WebSockets?][66]
+
 ## 负载均衡技术
 * [Linux服务器集群系统（一）(原作者博客)][41]
 * [LVS原理介绍][42]
@@ -157,6 +164,11 @@
 [59]: http://www.zhangrenhua.com/2019/01/03/Kubenetes-Hello%20World/
 [60]: https://arthurchiao.github.io/blog/amazon-dynamo-zh/
 [61]: https://blog.csdn.net/yunfeng482/article/details/72856762
+[62]: http://ntcn.net/blog/?p=4268
+[63]: https://github.com/slact/nchan/issues/116
+[64]: https://stackoverflow.com/questions/7815945/which-module-for-nginx-is-the-best-for-http-push
+[65]: https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9?gi=3dedf94648fe
+[66]: https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
