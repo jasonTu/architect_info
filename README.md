@@ -45,6 +45,7 @@
 * [MySQL · 答疑解惑 · set names 都做了什么][53]
 * [当我们输入一条 SQL 查询语句时，发生了什么？][55]
 * [Chasing a Hung MySQL Transaction: InnoDB History Length Strikes Back][57]
+* [腾讯工程师带你深入解析 MySQL binlog][68]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -171,6 +172,7 @@
 [65]: https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9?gi=3dedf94648fe
 [66]: https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b
 [67]: https://www.qiuzhi99.com/articles/websocket-wai-pian-nginx-push-stream-module-mo
+[68]: https://zhuanlan.zhihu.com/p/33504555
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
