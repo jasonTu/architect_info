@@ -48,6 +48,7 @@
 * [腾讯工程师带你深入解析 MySQL binlog][68]
 * [基于 MySQL Binlog 的 Elasticsearch 数据同步实践][69]
 * [Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL][70]
+* [MySQL Replication 主从复制全方位解决方案][71]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -177,6 +178,7 @@
 [68]: https://zhuanlan.zhihu.com/p/33504555
 [69]: https://mp.weixin.qq.com/s/kzd0KG_TRyv-IHc0a9QHwg
 [70]: https://github.com/noplay/python-mysql-replication
+[71]: https://www.cnblogs.com/zhangjianhua/p/8080538.html
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
