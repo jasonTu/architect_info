@@ -52,6 +52,10 @@
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
+* [https 证书传递、验证和数据加密、解密过程解析][72]
+* [HTTPS工作原理和TCP握手机制][73]
+* [HTTPS篇之SSL握手过程详解][74]
+* [Does https prevent man in the middle attacks by proxy server?][75]
 
 ## Server Push
 * [Nginx-push-stream-model(基于comet和PHP的webIM实现)][62]
@@ -179,6 +183,10 @@
 [69]: https://mp.weixin.qq.com/s/kzd0KG_TRyv-IHc0a9QHwg
 [70]: https://github.com/noplay/python-mysql-replication
 [71]: https://www.cnblogs.com/zhangjianhua/p/8080538.html
+[72]: https://www.cnblogs.com/jtlgb/p/6760679.html
+[73]: https://www.cnblogs.com/ttltry-air/archive/2012/08/20/2647898.html
+[74]: https://razeencheng.com/post/ssl-handshake-detail
+[75]: https://security.stackexchange.com/questions/8145/does-https-prevent-man-in-the-middle-attacks-by-proxy-server
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
