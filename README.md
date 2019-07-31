@@ -97,6 +97,7 @@
 
 ## 架构参考
 * [[译] [论文] Dynamo: Amazon's Highly Available Key-value Store（SOSP 2007）][60]
+* [彻底理解Netty，这一篇文章就够了][82]
 
 ## 高并发
 * [epoll和select区别][10]
@@ -201,6 +202,7 @@
 [79]: https://www.jianshu.com/p/96c0b04941e2
 [80]: https://blog.csdn.net/u013074465/article/details/46276967
 [81]: https://my.oschina.net/u/2286631/blog/1505151
+[82]: https://juejin.im/post/5bdaf8ea6fb9a0227b02275a
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
