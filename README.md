@@ -115,6 +115,7 @@
 * [CAP和一致性模型: CAP和BASE简介][21] 
 * [Session一致性][45]
 * [分布式一致性hash算法][46]
+* [分布式事务解决方案----最大努力通知解决方案][81]
 
 ## 基础设施
 * [CentOS7 Samba搭建][12]
@@ -199,6 +200,7 @@
 [78]: https://www.zhihu.com/question/26943938
 [79]: https://www.jianshu.com/p/96c0b04941e2
 [80]: https://blog.csdn.net/u013074465/article/details/46276967
+[81]: https://my.oschina.net/u/2286631/blog/1505151
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
