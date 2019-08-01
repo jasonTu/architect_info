@@ -63,6 +63,7 @@
 
 ## Redis
 * [Redis 和 I/O 多路复用][77]
+* [10分钟彻底理解Redis持久化和主从复制][83]
 
 ## Server Push
 * [Nginx-push-stream-model(基于comet和PHP的webIM实现)][62]
@@ -203,6 +204,7 @@
 [80]: https://blog.csdn.net/u013074465/article/details/46276967
 [81]: https://my.oschina.net/u/2286631/blog/1505151
 [82]: https://juejin.im/post/5bdaf8ea6fb9a0227b02275a
+[83]: https://mp.weixin.qq.com/s/Zuq_CD3WWC4YxmtQ-KYEPQ
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
