@@ -10,6 +10,11 @@
 ## 理念
 * [老杨谈架构：每个架构师都应该了解下康威定律][26]
 
+# RPM
+* [RPM Dependencies][84]
+* [rpmbuild: how to skip generation of “debuginfo” packages (without change SPEC file ; neither .rpmmacros)
+][85]
+
 ## 微服务
 * [微服务架构：基于微服务和Docker容器技术的PaaS云平台架构设计（微服务架构实施原理）][1]
 * [gRPC服务发现&负载均衡][2]
@@ -205,6 +210,8 @@
 [81]: https://my.oschina.net/u/2286631/blog/1505151
 [82]: https://juejin.im/post/5bdaf8ea6fb9a0227b02275a
 [83]: https://mp.weixin.qq.com/s/Zuq_CD3WWC4YxmtQ-KYEPQ
+[84]: http://ftp.rpm.org/api/4.4.2.2/dependencies.html
+[85]: https://stackoverflow.com/questions/36983051/rpmbuild-how-to-skip-generation-of-debuginfo-packages-without-change-spec-fi
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
