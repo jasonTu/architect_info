@@ -14,6 +14,7 @@
 * [RPM Dependencies][84]
 * [rpmbuild: how to skip generation of “debuginfo” packages (without change SPEC file ; neither .rpmmacros)
 ][85]
+* [RPM Macros][86]
 
 ## 微服务
 * [微服务架构：基于微服务和Docker容器技术的PaaS云平台架构设计（微服务架构实施原理）][1]
@@ -212,6 +213,7 @@
 [83]: https://mp.weixin.qq.com/s/Zuq_CD3WWC4YxmtQ-KYEPQ
 [84]: http://ftp.rpm.org/api/4.4.2.2/dependencies.html
 [85]: https://stackoverflow.com/questions/36983051/rpmbuild-how-to-skip-generation-of-debuginfo-packages-without-change-spec-fi
+[86]: https://docs.fedoraproject.org/en-US/packaging-guidelines/RPMMacros/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
