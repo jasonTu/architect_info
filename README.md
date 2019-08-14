@@ -106,6 +106,10 @@
 * [[译] [论文] Dynamo: Amazon's Highly Available Key-value Store（SOSP 2007）][60]
 * [彻底理解Netty，这一篇文章就够了][82]
 
+## 测试
+* [开发者测试; STORY 场景树、PROPERTY-BASED TESTING、CONTRACT TESTING][87]
+* [Intro to property-based testing in Python][88]
+
 ## 高并发
 * [epoll和select区别][10]
 * [uwsgi_read_timeout超时处理][17]
@@ -214,6 +218,8 @@
 [84]: http://ftp.rpm.org/api/4.4.2.2/dependencies.html
 [85]: https://stackoverflow.com/questions/36983051/rpmbuild-how-to-skip-generation-of-debuginfo-packages-without-change-spec-fi
 [86]: https://docs.fedoraproject.org/en-US/packaging-guidelines/RPMMacros/
+[87]: https://www.deva9.com/cloud-native/%e5%bc%80%e5%8f%91%e8%80%85%e6%b5%8b%e8%af%95-story-%e5%9c%ba%e6%99%af%e6%a0%91%e3%80%81property-based-testing%e3%80%81contract-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+[88]: https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
