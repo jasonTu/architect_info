@@ -95,6 +95,10 @@
 * [JSON Web Token 入门教程][16]
 * [细说API – 认证、授权和凭证][30]
 
+## AD/LDAP
+* [Python/Django使用LDAP做用户认证][89]
+
+
 ## 服务治理QoS
 * [服务治理---限流（令牌桶算法）][4]
 * [谈谈高并发系统的限流][5]
@@ -220,6 +224,7 @@
 [86]: https://docs.fedoraproject.org/en-US/packaging-guidelines/RPMMacros/
 [87]: https://www.deva9.com/cloud-native/%e5%bc%80%e5%8f%91%e8%80%85%e6%b5%8b%e8%af%95-story-%e5%9c%ba%e6%99%af%e6%a0%91%e3%80%81property-based-testing%e3%80%81contract-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 [88]: https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/
+[89]: https://www.cnblogs.com/linxiyue/p/10250243.html
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
