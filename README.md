@@ -118,6 +118,7 @@
 ## 测试
 * [开发者测试; STORY 场景树、PROPERTY-BASED TESTING、CONTRACT TESTING][87]
 * [Intro to property-based testing in Python][88]
+* [Service Mock: json server][95]
 
 ## 高并发
 * [epoll和select区别][10]
@@ -235,6 +236,7 @@
 [92]: https://cookbook.fortinet.com/configure-hair-pinning-fortigate/
 [93]: https://support.citrix.com/article/CTX205483
 [94]: https://www.sonicwall.com/support/knowledge-base/access-a-server-behind-the-sonicwall-from-internal-networks-using-public-ips-loopback-nat/170505780814635/
+[95]: https://github.com/typicode/json-server
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
