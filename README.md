@@ -66,6 +66,7 @@
 * [如何深刻理解reactor和proactor？][78]
 * [Proactor和Reactor模型][79]
 * [两种高效的服务器设计模型：Reactor和Proactor模型][80]
+* [DMZ (networking)][90]
 
 ## Redis
 * [Redis 和 I/O 多路复用][77]
@@ -225,6 +226,7 @@
 [87]: https://www.deva9.com/cloud-native/%e5%bc%80%e5%8f%91%e8%80%85%e6%b5%8b%e8%af%95-story-%e5%9c%ba%e6%99%af%e6%a0%91%e3%80%81property-based-testing%e3%80%81contract-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 [88]: https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/
 [89]: https://www.cnblogs.com/linxiyue/p/10250243.html
+[90]: https://searchsecurity.techtarget.com/definition/DMZ
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
