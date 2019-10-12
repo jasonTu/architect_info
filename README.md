@@ -67,6 +67,10 @@
 * [Proactor和Reactor模型][79]
 * [两种高效的服务器设计模型：Reactor和Proactor模型][80]
 * [DMZ (networking)][90]
+* [wiki: Hairpinning][91]
+* [Configuring Hair-pinning on a FortiGate][92]
+* [How to Accommodate "Hairpinning" Behaviour in NetScaler][93]
+* [Access a server behind the SonicWall from internal networks using Public IPs (Loopback NAT)][94]
 
 ## Redis
 * [Redis 和 I/O 多路复用][77]
@@ -227,6 +231,10 @@
 [88]: https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/
 [89]: https://www.cnblogs.com/linxiyue/p/10250243.html
 [90]: https://searchsecurity.techtarget.com/definition/DMZ
+[91]: https://en.wikipedia.org/wiki/Hairpinning
+[92]: https://cookbook.fortinet.com/configure-hair-pinning-fortigate/
+[93]: https://support.citrix.com/article/CTX205483
+[94]: https://www.sonicwall.com/support/knowledge-base/access-a-server-behind-the-sonicwall-from-internal-networks-using-public-ips-loopback-nat/170505780814635/
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
