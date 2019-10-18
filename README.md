@@ -71,6 +71,7 @@
 * [Configuring Hair-pinning on a FortiGate][92]
 * [How to Accommodate "Hairpinning" Behaviour in NetScaler][93]
 * [Access a server behind the SonicWall from internal networks using Public IPs (Loopback NAT)][94]
+* [SSH端口转发：SSH隧道][96]
 
 ## Redis
 * [Redis 和 I/O 多路复用][77]
@@ -237,6 +238,7 @@
 [93]: https://support.citrix.com/article/CTX205483
 [94]: https://www.sonicwall.com/support/knowledge-base/access-a-server-behind-the-sonicwall-from-internal-networks-using-public-ips-loopback-nat/170505780814635/
 [95]: https://github.com/typicode/json-server
+[96]: https://www.zsythink.net/archives/2450
 
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
