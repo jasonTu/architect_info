@@ -27,6 +27,11 @@
 * [kubernetes 1.13 全新安装指南][58]
 * [Kubenetes-Hello World][59]
 
+## Service Mesh
+* [Cloud Native Definition][97]
+* [Pattern: Service Mesh][98]
+* [Awesome Service Mesh][99]
+
 ## AWS
 * [AWS学习笔记(七)--集成SQS和Lambda][23]
 * [Integrate SQS and Lambda: serverless architecture for asynchronous workloads][24]
@@ -239,6 +244,8 @@
 [94]: https://www.sonicwall.com/support/knowledge-base/access-a-server-behind-the-sonicwall-from-internal-networks-using-public-ips-loopback-nat/170505780814635/
 [95]: https://github.com/typicode/json-server
 [96]: https://www.zsythink.net/archives/2450
-
+[97]: https://github.com/cncf/toc/blob/master/DEFINITION.md
+[98]: https://philcalcado.com/2017/08/03/pattern_service_mesh.html
+[99]: https://www.servicemesher.com/awesome-servicemesh/
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
