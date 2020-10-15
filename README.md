@@ -133,6 +133,7 @@
 * [聊聊端口复用的实现和坑点][29]
 * [MySQL Insert/Update Multiple Rows Using ON DUPLICATE KEY [duplicate]][102]
 * [Django mysql prepared statements][104]
+* [Using bulk update in Django 2.2][105]
 * [Bulk Inserts Performance with Django and PostgreSQL][103]
 
 ## 高可用
@@ -255,3 +256,4 @@
 [102]: https://stackoverflow.com/questions/48613384/mysql-insert-update-multiple-rows-using-on-duplicate-key/48613462
 [103]: http://stefano.dissegna.me/django-pg-bulk-insert.html
 [104]: https://stackoverflow.com/questions/15856604/django-mysql-prepared-statements
+[105]: https://tomforb.es/using-bulk-update-in-django-2.2/
