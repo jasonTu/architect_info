@@ -131,6 +131,9 @@
 * [uwsgi_read_timeout超时处理][17]
 * [Stick Session][28]
 * [聊聊端口复用的实现和坑点][29]
+* [MySQL Insert/Update Multiple Rows Using ON DUPLICATE KEY [duplicate]][102]
+* [Django mysql prepared statements][104]
+* [Bulk Inserts Performance with Django and PostgreSQL][103]
 
 ## 高可用
 * [Keepalived & LVS 搭建高可用的Web服务][44]
@@ -249,3 +252,6 @@
 [99]: https://www.servicemesher.com/awesome-servicemesh/
 [100]: https://github.com/nwjs/nw.js/
 [101]: https://github.com/jiahaog/nativefier
+[102]: https://stackoverflow.com/questions/48613384/mysql-insert-update-multiple-rows-using-on-duplicate-key/48613462
+[103]: http://stefano.dissegna.me/django-pg-bulk-insert.html
+[104]: https://stackoverflow.com/questions/15856604/django-mysql-prepared-statements
