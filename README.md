@@ -78,6 +78,8 @@
 * [Access a server behind the SonicWall from internal networks using Public IPs (Loopback NAT)][94]
 * [SSH端口转发：SSH隧道][96]
 * [5种网络IO模型：阻塞IO、非阻塞IO、异步IO、多路复用IO、信号驱动IO][106]
+* [NAT的四种类型][107]
+* [How tunneling services like 'Localtunnel' works without SSH?][108]
 
 ## Redis
 * [Redis 和 I/O 多路复用][77]
@@ -259,3 +261,5 @@
 [104]: https://stackoverflow.com/questions/15856604/django-mysql-prepared-statements
 [105]: https://tomforb.es/using-bulk-update-in-django-2.2/
 [106]: https://www.huaweicloud.com/articles/26b1b9fda29be3fb03a51370d373ff49.html
+[107]: https://blog.csdn.net/mycloudpeak/article/details/53550405
+[108]: https://stackoverflow.com/questions/52596901/how-tunneling-services-like-localtunnel-works-without-ssh
