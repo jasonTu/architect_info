@@ -60,6 +60,7 @@
 * [基于 MySQL Binlog 的 Elasticsearch 数据同步实践][69]
 * [Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL][70]
 * [MySQL Replication 主从复制全方位解决方案][71]
+* [阿里二面：了解 MySQL 事务底层原理吗][109]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -263,3 +264,4 @@
 [106]: https://www.huaweicloud.com/articles/26b1b9fda29be3fb03a51370d373ff49.html
 [107]: https://blog.csdn.net/mycloudpeak/article/details/53550405
 [108]: https://stackoverflow.com/questions/52596901/how-tunneling-services-like-localtunnel-works-without-ssh
+[109]: https://zhuanlan.zhihu.com/p/418106838
