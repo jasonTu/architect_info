@@ -69,6 +69,7 @@
 * [HTTPS篇之SSL握手过程详解][74]
 * [Does https prevent man in the middle attacks by proxy server?][75]
 * [扯一扯HTTPS单向认证、双向认证、抓包原理、反抓包策略][76]
+* [干货 | 图解 https 单向认证和双向认证！][110]
 * [如何深刻理解reactor和proactor？][78]
 * [Proactor和Reactor模型][79]
 * [两种高效的服务器设计模型：Reactor和Proactor模型][80]
@@ -264,4 +265,5 @@
 [106]: https://www.huaweicloud.com/articles/26b1b9fda29be3fb03a51370d373ff49.html
 [107]: https://blog.csdn.net/mycloudpeak/article/details/53550405
 [108]: https://stackoverflow.com/questions/52596901/how-tunneling-services-like-localtunnel-works-without-ssh
-[109]: https://zhuanlan.zhihu.com/p/418106838
+[109]: https://zhuanlan.zhihu.com/p/41810683811
+[110]: https://cloud.tencent.com/developer/article/1171381
