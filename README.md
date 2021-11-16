@@ -10,6 +10,12 @@
 ## 理念
 * [老杨谈架构：每个架构师都应该了解下康威定律][26]
 
+# 云原生
+* [使用Operator部署Prometheus][111]
+* [prometheus-operator][112]
+* [kube-prometheus][113]
+
+
 # RPM
 * [RPM Dependencies][84]
 * [rpmbuild: how to skip generation of “debuginfo” packages (without change SPEC file ; neither .rpmmacros)
@@ -267,3 +273,6 @@
 [108]: https://stackoverflow.com/questions/52596901/how-tunneling-services-like-localtunnel-works-without-ssh
 [109]: https://zhuanlan.zhihu.com/p/41810683811
 [110]: https://cloud.tencent.com/developer/article/1171381
+[111]: https://cloud.tencent.com/developer/article/1648991
+[112]: https://github.com/prometheus-operator/prometheus-operator
+[113]: https://github.com/prometheus-operator/kube-prometheus
