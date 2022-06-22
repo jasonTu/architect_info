@@ -163,6 +163,12 @@
 ## 基础设施
 * [CentOS7 Samba搭建][12]
 
+## ZTNA
+* [MicroSegmentation][114]
+* [AppGate: ZTNA Architecture][115]
+* [Zscaler: ZTNA Architecture][116]
+
+
 [1]: https://www.cnblogs.com/fangfuhai/p/7065847.html
 [2]: https://blog.csdn.net/leonpengweicn/article/details/72772480
 [3]: http://www.cnblogs.com/wuchanming/p/6886020.htm
@@ -276,3 +282,6 @@
 [111]: https://cloud.tencent.com/developer/article/1648991
 [112]: https://github.com/prometheus-operator/prometheus-operator
 [113]: https://github.com/prometheus-operator/kube-prometheus
+[114]: https://www.zscaler.com/resources/security-terms-glossary/what-is-microsegmentation
+[115]: https://www.appgate.com/blog/ztna-architecture-zero-trust-architecture-guide
+[116]: https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-architecture
