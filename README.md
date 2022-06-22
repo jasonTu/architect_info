@@ -167,6 +167,7 @@
 * [MicroSegmentation][114]
 * [AppGate: ZTNA Architecture][115]
 * [Zscaler: ZTNA Architecture][116]
+* [单包认证，端口敲击][117]
 
 
 [1]: https://www.cnblogs.com/fangfuhai/p/7065847.html
@@ -285,3 +286,4 @@
 [114]: https://www.zscaler.com/resources/security-terms-glossary/what-is-microsegmentation
 [115]: https://www.appgate.com/blog/ztna-architecture-zero-trust-architecture-guide
 [116]: https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-architecture
+[117]: https://zhuanlan.zhihu.com/p/352441199
