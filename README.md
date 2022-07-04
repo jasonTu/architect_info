@@ -90,9 +90,10 @@
 * [How tunneling services like 'Localtunnel' works without SSH?][108]
 * [NAT内网穿透][118]
 
-## Redis
+## 缓存
 * [Redis 和 I/O 多路复用][77]
 * [10分钟彻底理解Redis持久化和主从复制][83]
+* [【实战问题】-- 缓存穿透，缓存击穿和缓存雪崩的区别以及解决方案][119]
 
 ## Server Push
 * [Nginx-push-stream-model(基于comet和PHP的webIM实现)][62]
@@ -289,3 +290,4 @@
 [116]: https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-architecture
 [117]: https://zhuanlan.zhihu.com/p/352441199
 [118]: https://mp.weixin.qq.com/s?src=3&timestamp=1656901701&ver=1&signature=zobezU4ooA4t4MD9Qn7hofuNJtaxGGPDlfIPIwV1amoBQCWKA*mFGLVBoWCRC0YXkx7uaCF7lcK4NsdS-pB0nHorOdbq2flYKKQkb6sZwhVzutziIZSWXhKZ7AafT*5gvz4LREC5YIyXRfRKVZzCLw==
+[119]: https://segmentfault.com/a/1190000039688578
