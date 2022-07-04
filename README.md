@@ -88,6 +88,7 @@
 * [5种网络IO模型：阻塞IO、非阻塞IO、异步IO、多路复用IO、信号驱动IO][106]
 * [NAT的四种类型][107]
 * [How tunneling services like 'Localtunnel' works without SSH?][108]
+* [NAT内网穿透][118]
 
 ## Redis
 * [Redis 和 I/O 多路复用][77]
@@ -287,3 +288,4 @@
 [115]: https://www.appgate.com/blog/ztna-architecture-zero-trust-architecture-guide
 [116]: https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-architecture
 [117]: https://zhuanlan.zhihu.com/p/352441199
+[118]: https://mp.weixin.qq.com/s?src=3&timestamp=1656901701&ver=1&signature=zobezU4ooA4t4MD9Qn7hofuNJtaxGGPDlfIPIwV1amoBQCWKA*mFGLVBoWCRC0YXkx7uaCF7lcK4NsdS-pB0nHorOdbq2flYKKQkb6sZwhVzutziIZSWXhKZ7AafT*5gvz4LREC5YIyXRfRKVZzCLw==
