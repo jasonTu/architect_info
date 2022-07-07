@@ -10,7 +10,10 @@
 ## 理念
 * [老杨谈架构：每个架构师都应该了解下康威定律][26]
 
-# 云原生
+## Security
+* [What are the differences between .pem, .csr, .key, .crt and other such file extensions?][120]
+
+## 云原生
 * [使用Operator部署Prometheus][111]
 * [prometheus-operator][112]
 * [kube-prometheus][113]
@@ -291,3 +294,4 @@
 [117]: https://zhuanlan.zhihu.com/p/352441199
 [118]: https://mp.weixin.qq.com/s?src=3&timestamp=1656901701&ver=1&signature=zobezU4ooA4t4MD9Qn7hofuNJtaxGGPDlfIPIwV1amoBQCWKA*mFGLVBoWCRC0YXkx7uaCF7lcK4NsdS-pB0nHorOdbq2flYKKQkb6sZwhVzutziIZSWXhKZ7AafT*5gvz4LREC5YIyXRfRKVZzCLw==
 [119]: https://segmentfault.com/a/1190000039688578
+[120]: https://crypto.stackexchange.com/questions/43697/what-are-the-differences-between-pem-csr-key-crt-and-other-such-file-exte
