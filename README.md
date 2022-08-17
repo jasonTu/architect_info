@@ -70,6 +70,7 @@
 * [Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL][70]
 * [MySQL Replication 主从复制全方位解决方案][71]
 * [阿里二面：了解 MySQL 事务底层原理吗][109]
+* [颠覆认知——Redis会遇到的15个「坑」，你踩过几个？][121]
 
 ## 网络
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
@@ -295,3 +296,4 @@
 [118]: https://mp.weixin.qq.com/s?src=3&timestamp=1656901701&ver=1&signature=zobezU4ooA4t4MD9Qn7hofuNJtaxGGPDlfIPIwV1amoBQCWKA*mFGLVBoWCRC0YXkx7uaCF7lcK4NsdS-pB0nHorOdbq2flYKKQkb6sZwhVzutziIZSWXhKZ7AafT*5gvz4LREC5YIyXRfRKVZzCLw==
 [119]: https://segmentfault.com/a/1190000039688578
 [120]: https://crypto.stackexchange.com/questions/43697/what-are-the-differences-between-pem-csr-key-crt-and-other-such-file-exte
+[121]: http://kaito-kidd.com/2021/03/14/redis-trap/
