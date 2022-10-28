@@ -165,6 +165,7 @@
 * [Session一致性][45]
 * [分布式一致性hash算法][46]
 * [分布式事务解决方案----最大努力通知解决方案][81]
+* [一文读懂哈希和一致性哈希算法 ][123]
 
 ## 基础设施
 * [CentOS7 Samba搭建][12]
@@ -297,3 +298,4 @@
 [119]: https://segmentfault.com/a/1190000039688578
 [120]: https://crypto.stackexchange.com/questions/43697/what-are-the-differences-between-pem-csr-key-crt-and-other-such-file-exte
 [121]: http://kaito-kidd.com/2021/03/14/redis-trap/
+[123]: https://www.cnblogs.com/myshowtime/p/15145988.html
