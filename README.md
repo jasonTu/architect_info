@@ -93,6 +93,7 @@
 * [NAT的四种类型][107]
 * [How tunneling services like 'Localtunnel' works without SSH?][108]
 * [NAT内网穿透][118]
+* [一文彻底搞懂加密、数字签名和数字证书！][126]
 
 ## 缓存
 * [Redis 和 I/O 多路复用][77]
@@ -305,4 +306,5 @@
 [123]: https://www.cnblogs.com/myshowtime/p/15145988.html
 [124]: https://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html
 [125]: https://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html
+[126]: https://segmentfault.com/a/1190000024523772
 
