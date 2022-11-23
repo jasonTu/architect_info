@@ -7,9 +7,11 @@
 
 ## Network Security
 * [How SYN cookies are used to preventing SYN Flood attack][4]
+* [What is Microsegmentation?][5]
 
 [1]: https://help.deepsecurity.trendmicro.com/20_0/on-premise/appliance-nsxt3x-east-west.html
 [2]: https://cloud.tencent.com/developer/article/1548350
 [3]: https://www.jianshu.com/p/29e0ba31fb8d
 [4]: https://www.geeksforgeeks.org/how-syn-cookies-are-used-to-preventing-syn-flood-attack/
+[5]: https://www.paloaltonetworks.com/cyberpedia/what-is-microsegmentation
 
