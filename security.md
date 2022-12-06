@@ -5,6 +5,7 @@
 * [使用openssl创建https证书][2]
 * [一文看懂HTTPS、证书机构（CA）、证书、数字签名、私钥、公钥][3]
 * [什么叫SSH？原理详解，看这一篇就够了！](https://www.51cto.com/article/706122.html)
+* [RSA中如果将公钥私钥交换使用会怎样？](https://www.zhihu.com/question/31602509)
 
 ## Network Security
 * [How SYN cookies are used to preventing SYN Flood attack][4]
