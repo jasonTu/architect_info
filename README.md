@@ -2,6 +2,11 @@
 * [nodejs webkit][100]
 * [nativefier][101]
 
+## ELF file Compile and Link
+* [RPATH与RUNPATH的区别](https://blog.csdn.net/u011192270/article/details/113948728)
+* [OpenSSL Compilation and Installation](https://wiki.openssl.org/index.php/Compilation_and_Installation)
+* [-fPIC position independent code of share object](https://www.cnblogs.com/lovebay/p/11878183.html)
+
 ## Source Code Analysis
 * [doxygen+graphiviz](https://www.cnblogs.com/realjimmy/p/12892179.html)
 
