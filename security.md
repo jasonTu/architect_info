@@ -6,6 +6,7 @@
 * [一文看懂HTTPS、证书机构（CA）、证书、数字签名、私钥、公钥][3]
 * [什么叫SSH？原理详解，看这一篇就够了！](https://www.51cto.com/article/706122.html)
 * [RSA中如果将公钥私钥交换使用会怎样？](https://www.zhihu.com/question/31602509)
+* [消息摘要（Digest），数字签名（Signature），数字证书（Certificate）是什么？](https://blog.csdn.net/weter_drop/article/details/108066061)
 
 ## Network Security
 * [How SYN cookies are used to preventing SYN Flood attack][4]
