@@ -2,6 +2,9 @@
 * [nodejs webkit][100]
 * [nativefier][101]
 
+## Linux profile bashrc
+* [Linux文件 profile、bashrc、bash_profile区别][https://zhuanlan.zhihu.com/p/405174594]
+* 
 ## ELF file Compile and Link
 * [RPATH与RUNPATH的区别](https://blog.csdn.net/u011192270/article/details/113948728)
 * [OpenSSL Compilation and Installation](https://wiki.openssl.org/index.php/Compilation_and_Installation)
