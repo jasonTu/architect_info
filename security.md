@@ -15,6 +15,7 @@
 
 ## Device Recognization
 * [What is DHCP Fingerprinting?][6]
+* [What is DHCP Option?](https://www.efficientip.com/glossary/dhcp-option/)
 * [《网络攻防技术（第2版）》 —2.5.2　网络设备识别](https://bbs.huaweicloud.com/blogs/detail/138660)
 
 [1]: https://help.deepsecurity.trendmicro.com/20_0/on-premise/appliance-nsxt3x-east-west.html
