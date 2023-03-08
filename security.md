@@ -6,6 +6,10 @@
 * [密码学简史（二）--- 区块链中的现代密码学](https://blog.csdn.net/m0_37621078/article/details/103795665)
 * [密码学简史（三）--- 量子计算中的未来密码学](https://blog.csdn.net/m0_37621078/article/details/103814870)
 
+## DPI
+* [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
+* [初步了解DPI技术以及开源工具nDPI------上](https://blog.csdn.net/DeepGetNet/article/details/116308007)
+
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
 * [一文看懂HTTPS、证书机构（CA）、证书、数字签名、私钥、公钥][3]
