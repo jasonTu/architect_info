@@ -9,6 +9,7 @@
 ## DPI
 * [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
 * [初步了解DPI技术以及开源工具nDPI------上](https://blog.csdn.net/DeepGetNet/article/details/116308007)
+* [Deep Packet Inspection Vendors* Products](https://www.thefastmode.com/deep-packet-inspection-vendors)
 
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
