@@ -11,6 +11,10 @@
 * [初步了解DPI技术以及开源工具nDPI------上](https://blog.csdn.net/DeepGetNet/article/details/116308007)
 * [Deep Packet Inspection Vendors* Products](https://www.thefastmode.com/deep-packet-inspection-vendors)
 
+## DNS
+* [黑客技术？没你想象的那么难！——dns劫持篇](https://cloud.tencent.com/developer/article/1197474)
+* [彻底解决DNS劫持污染，如何彻底解决DNS劫持污染，方法介绍](https://blog.csdn.net/qq_35787254/article/details/120683933)
+
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
 * [一文看懂HTTPS、证书机构（CA）、证书、数字签名、私钥、公钥][3]
