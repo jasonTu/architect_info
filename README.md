@@ -5,6 +5,8 @@
 ## Linux profile bashrc
 * [Linux文件 profile、bashrc、bash_profile区别][https://zhuanlan.zhihu.com/p/405174594]
 
+## C
+* [C语言丨深入理解volatile关键字](https://zhuanlan.zhihu.com/p/343688629)
 
 ## ELF file Compile and Link
 * [RPATH与RUNPATH的区别](https://blog.csdn.net/u011192270/article/details/113948728)
