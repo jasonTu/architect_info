@@ -33,6 +33,7 @@
 * [Web技术（四）：TLS 握手过程与性能优化(TLS 1.2与TLS 1.3对比)](https://blog.csdn.net/m0_37621078/article/details/106126033)
 * [Web技术（五）：HTTP/2 是如何解决HTTP/1.1 性能瓶颈的？](https://blog.csdn.net/m0_37621078/article/details/106006303)
 * [Web技术（六）：QUIC 是如何解决TCP 性能瓶颈的？](https://blog.csdn.net/m0_37621078/article/details/106506532)
+* [设计安全的账号系统的正确姿势](https://blog.coderzh.com/2016/01/03/security-design/)
 
 ## Network Security
 * [How SYN cookies are used to preventing SYN Flood attack][4]
