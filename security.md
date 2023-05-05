@@ -1,6 +1,10 @@
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
 
+## Attack
+* [2022蓝帽杯遇见的 SUID 提权 总结篇](https://tttang.com/archive/1793/)
+* [LINUX提权之SUID提权篇](https://juejin.cn/post/7163436481401323550)
+
 ## Cipher
 * [密码学简史（一）--- 谍战中的古典密码学](https://blog.csdn.net/m0_37621078/article/details/103792795)
 * [密码学简史（二）--- 区块链中的现代密码学](https://blog.csdn.net/m0_37621078/article/details/103795665)
