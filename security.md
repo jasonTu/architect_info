@@ -1,6 +1,9 @@
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
 
+## IoT Security
+* [Sectigo: IoT Security Challenges](https://www.youtube.com/watch?v=zl2ZbdSeQVY&list=PLcBcI6CwYXkOHol-Su80anNMr7oDvZ-3-&index=3)
+
 ## Attack
 * [2022蓝帽杯遇见的 SUID 提权 总结篇](https://tttang.com/archive/1793/)
 * [LINUX提权之SUID提权篇](https://juejin.cn/post/7163436481401323550)
