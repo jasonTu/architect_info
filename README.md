@@ -3,7 +3,7 @@
 * [nativefier][101]
 
 ## Linux profile bashrc
-* [Linux文件 profile、bashrc、bash_profile区别][https://zhuanlan.zhihu.com/p/405174594]
+* [Linux文件 profile、bashrc、bash_profile区别](https://zhuanlan.zhihu.com/p/405174594)
 
 ## C
 * [C语言丨深入理解volatile关键字](https://zhuanlan.zhihu.com/p/343688629)
