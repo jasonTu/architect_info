@@ -3,6 +3,9 @@
 
 ## IoT Security
 * [Sectigo: IoT Security Challenges](https://www.youtube.com/watch?v=zl2ZbdSeQVY&list=PLcBcI6CwYXkOHol-Su80anNMr7oDvZ-3-&index=3)
+* [What is DHCP Fingerprinting?][6]
+* [What is DHCP Option?](https://www.efficientip.com/glossary/dhcp-option/)
+* [《网络攻防技术（第2版）》 —2.5.2　网络设备识别](https://bbs.huaweicloud.com/blogs/detail/138660)
 
 ## Attack
 * [2022蓝帽杯遇见的 SUID 提权 总结篇](https://tttang.com/archive/1793/)
@@ -48,10 +51,7 @@
 * [How SYN cookies are used to preventing SYN Flood attack][4]
 * [What is Microsegmentation?][5]
 
-## Device Recognization
-* [What is DHCP Fingerprinting?][6]
-* [What is DHCP Option?](https://www.efficientip.com/glossary/dhcp-option/)
-* [《网络攻防技术（第2版）》 —2.5.2　网络设备识别](https://bbs.huaweicloud.com/blogs/detail/138660)
+
 
 [1]: https://help.deepsecurity.trendmicro.com/20_0/on-premise/appliance-nsxt3x-east-west.html
 [2]: https://cloud.tencent.com/developer/article/1548350
