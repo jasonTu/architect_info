@@ -1,6 +1,9 @@
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
 
+## CDM Program
+* [Continuous Diagnostics and Mitigation (CDM) Program](https://www.cisa.gov/resources-tools/programs/continuous-diagnostics-and-mitigation-cdm-program)
+
 ## IoT Security
 * [Sectigo: IoT Security Challenges](https://www.youtube.com/watch?v=zl2ZbdSeQVY&list=PLcBcI6CwYXkOHol-Su80anNMr7oDvZ-3-&index=3)
 * [What is DHCP Fingerprinting?][6]
