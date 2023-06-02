@@ -54,6 +54,10 @@
 * [How SYN cookies are used to preventing SYN Flood attack][4]
 * [What is Microsegmentation?][5]
 
+## 纠错码
+* [信道编码之RS纠删码](https://www.jianshu.com/p/a3316b8fb87f)
+* [golang分布式存储 读书笔记(3)——数据冗余之RS码](https://www.jianshu.com/p/e3a83e694d4f)
+
 
 
 [1]: https://help.deepsecurity.trendmicro.com/20_0/on-premise/appliance-nsxt3x-east-west.html
