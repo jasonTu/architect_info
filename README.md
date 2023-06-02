@@ -192,6 +192,10 @@
 ## 基础设施
 * [CentOS7 Samba搭建][12]
 
+## 操作系统
+* [Linux / UNIX: Kill Command Examples](https://www.cyberciti.biz/faq/unix-kill-command-examples/)
+* [Difference between >/dev/null 2>&1 & and </dev/null &>/dev/null &](https://unix.stackexchange.com/questions/497207/difference-between-dev-null-21-and-dev-null-dev-null)
+
 ## ZTNA
 * [MicroSegmentation][114]
 * [AppGate: ZTNA Architecture][115]
