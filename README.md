@@ -195,6 +195,7 @@
 ## 操作系统
 * [Linux / UNIX: Kill Command Examples](https://www.cyberciti.biz/faq/unix-kill-command-examples/)
 * [Difference between >/dev/null 2>&1 & and </dev/null &>/dev/null &](https://unix.stackexchange.com/questions/497207/difference-between-dev-null-21-and-dev-null-dev-null)
+* [When does /tmp get cleared?](https://serverfault.com/questions/377348/when-does-tmp-get-cleared)
 
 ## ZTNA
 * [MicroSegmentation][114]
