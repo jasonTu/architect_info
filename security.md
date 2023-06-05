@@ -1,6 +1,10 @@
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
 
+## Beyongcorp
+* [5分钟了解谷歌BeyondCorp零信任安全模型](https://www.aqniu.com/learn/65462.html)
+* [BeyondCorp：谷歌是怎么做甲方安全的](https://zhuanlan.zhihu.com/p/163799105)
+
 ## CDM Program
 * [Continuous Diagnostics and Mitigation (CDM) Program](https://www.cisa.gov/resources-tools/programs/continuous-diagnostics-and-mitigation-cdm-program)
 
