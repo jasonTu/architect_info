@@ -8,6 +8,7 @@
 ## C
 * [C语言丨深入理解volatile关键字](https://zhuanlan.zhihu.com/p/343688629)
 * [详解C/C++中的static和extern](https://blog.51cto.com/u_13669690/5037433)
+* [为什么要字节对齐？](https://blog.51cto.com/u_13267193/5371069)
 
 ## ELF file Compile and Link
 * [RPATH与RUNPATH的区别](https://blog.csdn.net/u011192270/article/details/113948728)
