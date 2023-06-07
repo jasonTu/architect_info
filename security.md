@@ -44,6 +44,8 @@
 * [消息摘要（Digest），数字签名（Signature），数字证书（Certificate）是什么？](https://blog.csdn.net/weter_drop/article/details/108066061)
 * [JWT 签名算法 HS256、RS256 及 ES256 及密钥生成](https://www.cnblogs.com/kirito-c/p/12402066.html)
 * [Logjam: the latest TLS vulnerability explained](https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/)
+* [Taking a Closer Look at the SSL/TLS Handshake](https://www.thesslstore.com/blog/explaining-ssl-handshake/)
+* [What is SSL/TLS Client Authentication? How does it work?](https://comodosslstore.com/blog/what-is-ssl-tls-client-authentication-how-does-it-work.html)
 
 ## Web Security
 * [Web技术（一）：互联网的设计与演化(URL + HTML + HTTP)](https://blog.csdn.net/m0_37621078/article/details/105543208)
