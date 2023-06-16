@@ -28,6 +28,8 @@
 * [Introducing SSH command logging](https://blog.cloudflare.com/ssh-command-logging/)
 * [ssh-mitm](https://github.com/ssh-mitm/ssh-mitm)
 * [Use SSH Public Key Authentication on Linux, macOS, and Windows](https://www.linode.com/docs/guides/use-public-key-authentication-with-ssh/)
+* [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io)
+* [Auditing GitHub users’ SSH key quality](https://blog.benjojo.co.uk/post/auditing-github-users-keys)
 
 ## DPI
 * [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
