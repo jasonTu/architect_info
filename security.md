@@ -42,6 +42,7 @@
 * [黑客技术？没你想象的那么难！——dns劫持篇](https://cloud.tencent.com/developer/article/1197474)
 * [彻底解决DNS劫持污染，如何彻底解决DNS劫持污染，方法介绍](https://blog.csdn.net/qq_35787254/article/details/120683933)
 * [DNS Spoofing](https://www.pandasecurity.com/en/mediacenter/security/dns-spoofing/)
+* [DNS Tunnel](https://www.extrahop.com/resources/attacks/dns-tunneling/)
 
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
