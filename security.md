@@ -41,6 +41,7 @@
 ## DNS
 * [黑客技术？没你想象的那么难！——dns劫持篇](https://cloud.tencent.com/developer/article/1197474)
 * [彻底解决DNS劫持污染，如何彻底解决DNS劫持污染，方法介绍](https://blog.csdn.net/qq_35787254/article/details/120683933)
+* [DNS Security: What it is and How Does it Work?]https://www.knowledgehut.com/blog/security/dns-security(
 * [DNS Spoofing](https://www.pandasecurity.com/en/mediacenter/security/dns-spoofing/)
 * [What is DNS Poisoning? (aka DNS Spoofing)](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
 * [YouTube: DNS Spoofing Attacks](https://www.youtube.com/watch?v=g-XZpTxusS8)
