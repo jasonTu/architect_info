@@ -44,6 +44,7 @@
 * [DNS Spoofing](https://www.pandasecurity.com/en/mediacenter/security/dns-spoofing/)
 * [What is DNS Poisoning? (aka DNS Spoofing)](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
 * [YouTube: DNS Spoofing Attacks](https://www.youtube.com/watch?v=g-XZpTxusS8)
+* [Cloudflare: What is DNS cache poisoning?](https://www.cloudflare.com/learning/dns/dns-cache-poisoning/)
 * [DNS Tunnel](https://www.extrahop.com/resources/attacks/dns-tunneling/)
 
 ## SSL, TLS and Certificate
