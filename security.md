@@ -46,7 +46,8 @@
 * [What is DNS Poisoning? (aka DNS Spoofing)](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
 * [YouTube: DNS Spoofing Attacks](https://www.youtube.com/watch?v=g-XZpTxusS8)
 * [Cloudflare: What is DNS cache poisoning?](https://www.cloudflare.com/learning/dns/dns-cache-poisoning/)
-* [DNS Tunnel](https://www.extrahop.com/resources/attacks/dns-tunneling/)
+* [DNS TUNNELING ATTACK: DEFINITION, EXAMPLES, AND PREVENTION](https://www.extrahop.com/resources/attacks/dns-tunneling/)
+* [WHAT IS DNS TUNNELING?](https://www.infoblox.com/glossary/dns-tunneling/)
 
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
