@@ -48,6 +48,7 @@
 * [Cloudflare: What is DNS cache poisoning?](https://www.cloudflare.com/learning/dns/dns-cache-poisoning/)
 * [DNS TUNNELING ATTACK: DEFINITION, EXAMPLES, AND PREVENTION](https://www.extrahop.com/resources/attacks/dns-tunneling/)
 * [WHAT IS DNS TUNNELING?](https://www.infoblox.com/glossary/dns-tunneling/)
+* [DNS Packet format](https://mislove.org/teaching/cs4700/spring11/handouts/project1-primer.pdf)
 
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
