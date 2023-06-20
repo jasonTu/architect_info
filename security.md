@@ -50,6 +50,7 @@
 * [WHAT IS DNS TUNNELING?](https://www.infoblox.com/glossary/dns-tunneling/)
 * [DNS Packet format](https://mislove.org/teaching/cs4700/spring11/handouts/project1-primer.pdf)
 * [DNS QUERY MESSAGE FORMAT](https://www.firewall.cx/networking-topics/protocols/domain-name-system-dns/160-protocols-dns-query.html)
+* [Cloudflare: What is a DNS record?](https://www.cloudflare.com/learning/dns/dns-records/)
 
 ## SSL, TLS and Certificate
 * [使用openssl创建https证书][2]
