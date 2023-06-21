@@ -10,6 +10,17 @@
 * [Golang Mysql笔记（三）--- Prepared剖析](https://www.jianshu.com/p/ee0d2e7bef54)
 * [SQL Injection Protection Filter](https://techcommunity.softwareag.com/pwiki/-/wiki/Main/SQL+Injection+Protection+Filter/pop_up)
 
+## Web Authentication
+* [JWT: JSON Web Token](https://jwt.io/)
+* [API Keys vs OAuth Tokens vs JSON Web Tokens](https://zapier.com/engineering/apikey-oauth-jwt/)
+* [基于Token的WEB后台认证机制](https://blog.csdn.net/u011537073/article/details/52177204)
+* [关于 RESTFUL API 安全认证方式的一些总结](https://www.cnblogs.com/Irving/p/4964489.html)
+* [细说API – 认证、授权和凭证](https://insights.thoughtworks.cn/api-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Map of OAuth 2.0 Specs](https://www.oauth.com/oauth2-servers/map-oauth-2-0-specs/)
+* [OAuth 2.0 and OpenID Connection by Nate @OKTA](https://www.youtube.com/watch?v=996OiexHze0)
+* [SAML 2.0 Web Browser Single-Sign-On](https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/cwlp_saml_web_sso.html)
+* [[OIDC in Action] 1. 基于OIDC（OpenID Connect）的SSO](https://www.cnblogs.com/linianhui/p/oidc-in-action-sso.html)
+
 ## CDM Program
 * [Continuous Diagnostics and Mitigation (CDM) Program](https://www.cisa.gov/resources-tools/programs/continuous-diagnostics-and-mitigation-cdm-program)
 
