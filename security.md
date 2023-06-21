@@ -5,6 +5,20 @@
 * [5分钟了解谷歌BeyondCorp零信任安全模型](https://www.aqniu.com/learn/65462.html)
 * [BeyondCorp：谷歌是怎么做甲方安全的](https://zhuanlan.zhihu.com/p/163799105)
 
+## XSS
+* [XSS跨站脚本攻击](https://www.cnblogs.com/phpstudy2015-6/p/6767032.html)
+
+## CSRF
+* [百度百科：CSRF](https://baike.baidu.com/item/CSRF/2735433?fr=aladdin)
+* [Web安全之CSRF攻击](https://www.cnblogs.com/lovesong/p/5233195.html)
+
+## Honey Pot
+* [网络蜜罐的前世今生](https://mp.weixin.qq.com/s/5QIkzKcZKjCjw6Dhfu4cbQ)
+
+## Utilities
+* [CrackStation: The site CrackStation.net maintains a list of known hashes for numbers and dictionary words, also known as a 'Rainbow Table'](https://crackstation.net/)
+* [Wikipedia: Email address format](https://en.wikipedia.org/wiki/Email_address)
+
 ## SQL Injection
 * [使用PreparedStatement执行sql增、删、改、查语句](https://www.jianshu.com/p/84bcb6e1632b)
 * [Golang Mysql笔记（三）--- Prepared剖析](https://www.jianshu.com/p/ee0d2e7bef54)
