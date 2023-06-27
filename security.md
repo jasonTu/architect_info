@@ -1,7 +1,7 @@
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
 
-## Beyongcorp
+## Beyondcorp
 * [5分钟了解谷歌BeyondCorp零信任安全模型](https://www.aqniu.com/learn/65462.html)
 * [BeyondCorp：谷歌是怎么做甲方安全的](https://zhuanlan.zhihu.com/p/163799105)
 
@@ -105,6 +105,7 @@
 ## Network Security
 * [How SYN cookies are used to preventing SYN Flood attack][4]
 * [What is Microsegmentation?][5]
+* [Python网络编程1--实现ARP欺骗](https://www.jianshu.com/p/c5fece21b270)
 
 ## 纠错码
 * [信道编码之RS纠删码](https://www.jianshu.com/p/a3316b8fb87f)
