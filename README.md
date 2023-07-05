@@ -90,6 +90,10 @@
 ## 网络
 * [深入理解 TCP 协议：从原理到实战【超详细】-上](https://zhuanlan.zhihu.com/p/566466901)
 * [深入理解 TCP 协议：从原理到实战【超详细】-下](https://zhuanlan.zhihu.com/p/566475190)
+* [不为人知的网络编程(十二)：彻底搞懂TCP协议层的KeepAlive保活机制](http://www.52im.net/thread-3506-1-1.html)
+* [TCP链接之间的网络物理断开了然后又连上，这个TCP链接是否断开？](https://www.zhihu.com/question/53672815/answer/2694528357)
+* [Load Balancer TCP Reset and Idle Timeout](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-tcp-reset)
+* [Envoy: How do I configure timeouts?](https://www.envoyproxy.io/docs/envoy/latest/faq/configuration/timeouts)
 * [Linux Proxy Server Settings – Set Proxy For Command Line][40]
 * [https 证书传递、验证和数据加密、解密过程解析][72]
 * [HTTPS工作原理和TCP握手机制][73]
