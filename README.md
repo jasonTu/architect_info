@@ -11,6 +11,9 @@
 * [为什么要字节对齐？](https://blog.51cto.com/u_13267193/5371069)
 * [What is Valgrind and why we need it](https://alexott.net/en/writings/prog-checking/Valgrind.html)
 
+## Python
+* [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
+
 ## ELF file Compile and Link
 * [RPATH与RUNPATH的区别](https://blog.csdn.net/u011192270/article/details/113948728)
 * [OpenSSL Compilation and Installation](https://wiki.openssl.org/index.php/Compilation_and_Installation)
