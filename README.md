@@ -37,11 +37,13 @@
 * [prometheus-operator][112]
 * [kube-prometheus][113]
 
+## Docker
+* [How are CMD and ENTRYPOINT different in a Dockerfile?](https://www.educative.io/answers/how-are-cmd-and-entrypoint-different-in-a-dockerfile)
+* [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
 # RPM
 * [RPM Dependencies][84]
-* [rpmbuild: how to skip generation of “debuginfo” packages (without change SPEC file ; neither .rpmmacros)
-][85]
+* [rpmbuild: how to skip generation of “debuginfo” packages (without change SPEC file ; neither .rpmmacros)][85]
 * [RPM Macros][86]
 
 ## 微服务
