@@ -7,6 +7,7 @@
 
 ## XSS
 * [XSS跨站脚本攻击](https://www.cnblogs.com/phpstudy2015-6/p/6767032.html)
+* [XSS跨站脚本攻击是什么意思？为什么叫XSS？](https://zhuanlan.zhihu.com/p/618557124)
 
 ## CSRF
 * [百度百科：CSRF](https://baike.baidu.com/item/CSRF/2735433?fr=aladdin)
