@@ -84,7 +84,7 @@
 * [DNS QUERY MESSAGE FORMAT](https://www.firewall.cx/networking-topics/protocols/domain-name-system-dns/160-protocols-dns-query.html)
 * [Cloudflare: What is a DNS record?](https://www.cloudflare.com/learning/dns/dns-records/)
 
-## SSL, TLS and Certificate
+## HTTPS(SSL, TLS and Certificate)
 * [使用openssl创建https证书][2]
 * [一文看懂HTTPS、证书机构（CA）、证书、数字签名、私钥、公钥][3]
 * [什么叫SSH？原理详解，看这一篇就够了！](https://www.51cto.com/article/706122.html)
@@ -94,6 +94,9 @@
 * [Logjam: the latest TLS vulnerability explained](https://blog.cloudflare.com/logjam-the-latest-tls-vulnerability-explained/)
 * [Taking a Closer Look at the SSL/TLS Handshake](https://www.thesslstore.com/blog/explaining-ssl-handshake/)
 * [What is SSL/TLS Client Authentication? How does it work?](https://comodosslstore.com/blog/what-is-ssl-tls-client-authentication-how-does-it-work.html)
+* [HTTPS << >> HTTP redirection](https://www.namecheap.com/support/knowledgebase/article.aspx/385/2237/how-to-redirect-a-url-for-a-domain/)
+* [关于HSTS安全协议的全面详细解析](https://www.cnblogs.com/kangleweb/p/7494544.html)
+* [HSTS 详解，让 HTTPS 更安全](https://tech.upyun.com/tech/article/393/HSTS%20%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%A9%20HTTPS%20%E6%9B%B4%E5%AE%89%E5%85%A8.html)
 
 ## Web Security
 * [Web技术（一）：互联网的设计与演化(URL + HTML + HTTP)](https://blog.csdn.net/m0_37621078/article/details/105543208)
