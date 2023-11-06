@@ -13,8 +13,6 @@
 
 ## Python
 * [How to - build and distribute a CLI Tool with Python](https://medium.com/nerd-for-tech/how-to-build-and-distribute-a-cli-tool-with-python-537ae41d9d78)
-
-## Python
 * [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
 
 ## ELF file Compile and Link
