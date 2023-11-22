@@ -64,6 +64,7 @@
 * [Auditing GitHub users’ SSH key quality](https://blog.benjojo.co.uk/post/auditing-github-users-keys)
 * [An Illustrated Guide to SSH Agent Forwarding](http://unixwiz.net/techtips/ssh-agent-forwarding.html)
 * [RFC: SSH Agent Protocol](https://datatracker.ietf.org/doc/html/draft-miller-ssh-agent-04)
+* [Enable Multi-Factor Authentication for SSH!](https://www.youtube.com/watch?v=ptwXrEBcOus)
 
 ## DPI
 * [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
