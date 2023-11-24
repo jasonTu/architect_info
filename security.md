@@ -67,6 +67,7 @@
 * [Enable Multi-Factor Authentication for SSH!](https://www.youtube.com/watch?v=ptwXrEBcOus)
 * [Format of the authorized_keys file: force command](https://www.ibm.com/docs/en/zos/2.5.0?topic=daemon-format-authorized-keys-file)
 * [Linux - Limit user to one application in ssh: force command in sshd_config and authorized_keys](https://serverfault.com/questions/898813/linux-limit-user-to-one-application-in-ssh)
+* [an ssh subsystem that does ls](https://superuser.com/questions/843275/an-ssh-subsystem-that-does-ls)
 
 ## DPI
 * [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
