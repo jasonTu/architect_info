@@ -65,6 +65,7 @@
 * [An Illustrated Guide to SSH Agent Forwarding](http://unixwiz.net/techtips/ssh-agent-forwarding.html)
 * [RFC: SSH Agent Protocol](https://datatracker.ietf.org/doc/html/draft-miller-ssh-agent-04)
 * [Enable Multi-Factor Authentication for SSH!](https://www.youtube.com/watch?v=ptwXrEBcOus)
+* [Format of the authorized_keys file: forced command](https://www.ibm.com/docs/en/zos/2.5.0?topic=daemon-format-authorized-keys-file)
 
 ## DPI
 * [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
