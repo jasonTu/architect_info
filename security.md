@@ -68,6 +68,7 @@
 * [Format of the authorized_keys file: force command](https://www.ibm.com/docs/en/zos/2.5.0?topic=daemon-format-authorized-keys-file)
 * [Linux - Limit user to one application in ssh: force command in sshd_config and authorized_keys](https://serverfault.com/questions/898813/linux-limit-user-to-one-application-in-ssh)
 * [an ssh subsystem that does ls](https://superuser.com/questions/843275/an-ssh-subsystem-that-does-ls)
+* [Starting the sshd daemon](https://www.ibm.com/docs/en/zos/2.2.0?topic=administrators-starting-sshd-daemon)
 * [Steps for starting the sshd daemon under inetd](https://www.ibm.com/docs/en/zos/2.3.0?topic=SSLTBW_2.3.0/com.ibm.zos.v2r3.foto100/inetdstart.html)
 
 ## DPI
