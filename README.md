@@ -125,6 +125,7 @@
 * [什么是VLAN][127]
 * [图解：二层与三层交换机之间到底有什么区别?](https://www.51cto.com/article/708872.html)
 * [MQTT和Websocket的区别是什么？](https://www.zhihu.com/question/21816631/answer/2725809202)
+* [Retransmission Rules for TCP](https://www.baeldung.com/cs/tcp-retransmission-rules)
 
 ## 缓存
 * [Redis 和 I/O 多路复用][77]
