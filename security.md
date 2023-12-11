@@ -105,6 +105,7 @@
 * [HSTS 详解，让 HTTPS 更安全](https://tech.upyun.com/tech/article/393/HSTS%20%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%A9%20HTTPS%20%E6%9B%B4%E5%AE%89%E5%85%A8.html)
 * [stunnel: tls proxy](https://www.stunnel.org/)
 * [TLS Handshake : Under The Hood, certificate chain validatation](https://technospace.medium.com/tls-handshake-under-the-hood-79d20c0020de)
+* [OpenSSL 单向认证，双向认证编码实现](https://www.cnblogs.com/Anker/p/6018032.html)
 
 ## Web Security
 * [Web技术（一）：互联网的设计与演化(URL + HTML + HTTP)](https://blog.csdn.net/m0_37621078/article/details/105543208)
