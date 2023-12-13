@@ -13,6 +13,8 @@
 * [百度百科：CSRF](https://baike.baidu.com/item/CSRF/2735433?fr=aladdin)
 * [Web安全之CSRF攻击](https://www.cnblogs.com/lovesong/p/5233195.html)
 * [浅谈CSRF攻击方式](https://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html)
+* [How to prevent CSRF vulnerabilities](https://portswigger.net/web-security/csrf/preventing)
+* [Cross-Site Request Forgery Prevention Cheat Sheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 
 ## Honey Pot
 * [网络蜜罐的前世今生](https://mp.weixin.qq.com/s/5QIkzKcZKjCjw6Dhfu4cbQ)
