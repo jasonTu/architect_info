@@ -123,6 +123,9 @@
 * [What is Microsegmentation?][5]
 * [Python网络编程1--实现ARP欺骗](https://www.jianshu.com/p/c5fece21b270)
 
+## SASE
+* [What Is Secure Access Service Edge (SASE)?](https://www.zscaler.com/resources/security-terms-glossary/what-is-sase)
+
 ## 纠错码
 * [信道编码之RS纠删码](https://www.jianshu.com/p/a3316b8fb87f)
 * [golang分布式存储 读书笔记(3)——数据冗余之RS码](https://www.jianshu.com/p/e3a83e694d4f)
