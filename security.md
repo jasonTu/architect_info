@@ -125,6 +125,7 @@
 
 ## SASE
 * [What Is Secure Access Service Edge (SASE)?](https://www.zscaler.com/resources/security-terms-glossary/what-is-sase)
+* [What are the Disadvantages of Secure Access Service Edge (SASE)?](https://www.sdxcentral.com/security/sase/definitions/what-is-secure-access-service-edge-sase/disadvantages-of-secure-access-service-edge-sase/)
 
 ## 纠错码
 * [信道编码之RS纠删码](https://www.jianshu.com/p/a3316b8fb87f)
