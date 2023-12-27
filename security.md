@@ -56,6 +56,8 @@
 * [密码学简史（一）--- 谍战中的古典密码学](https://blog.csdn.net/m0_37621078/article/details/103792795)
 * [密码学简史（二）--- 区块链中的现代密码学](https://blog.csdn.net/m0_37621078/article/details/103795665)
 * [密码学简史（三）--- 量子计算中的未来密码学](https://blog.csdn.net/m0_37621078/article/details/103814870)
+* [Malleability attacks against encryption without authentication](https://crypto.stackexchange.com/questions/3654/malleability-attacks-against-encryption-without-authentication)
+* [Exploring Authenticated Encryption with Associated Data](https://ez.analog.com/ez-blogs/b/engineerzone-spotlight/posts/authenticated-encryption)
 
 ## SSH
 * [深入了解SSH](https://zhuanlan.zhihu.com/p/235610836)
