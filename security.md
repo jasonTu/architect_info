@@ -136,6 +136,12 @@
 ## IoT
 * [IoT security (internet of things security)](https://www.techtarget.com/iotagenda/definition/IoT-security-Internet-of-Things-security)
 
+## Device Recognition
+* [Aruba: About device fingerprinting](https://www.arubanetworks.com/techdocs/AOS-CX/10.09/HTML/security_6200-6300-6400/Content/Chp_Dev_fngprnt/abo-dev-fngprnt.htm)
+* [Aruba: Device Fingerprints Dictionary](https://www.arubanetworks.com/techdocs/ClearPass/6.9/PolicyManager/Content/CPPM_UserGuide/Admin/FingerprintDictionary.html)
+
+
+
 
 
 [1]: https://help.deepsecurity.trendmicro.com/20_0/on-premise/appliance-nsxt3x-east-west.html
