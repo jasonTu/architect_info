@@ -140,6 +140,10 @@
 * [Aruba: About device fingerprinting](https://www.arubanetworks.com/techdocs/AOS-CX/10.09/HTML/security_6200-6300-6400/Content/Chp_Dev_fngprnt/abo-dev-fngprnt.htm)
 * [Aruba: Device Fingerprints Dictionary](https://www.arubanetworks.com/techdocs/ClearPass/6.9/PolicyManager/Content/CPPM_UserGuide/Admin/FingerprintDictionary.html)
 
+## PKI
+* [Installing a root CA certificate in the trust store](https://ubuntu.com/server/docs/security-trust-store)
+
+
 
 
 
