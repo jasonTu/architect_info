@@ -142,6 +142,10 @@
 
 ## PKI
 * [Installing a root CA certificate in the trust store](https://ubuntu.com/server/docs/security-trust-store)
+* [Validating a host name against a certificate](https://www.ibm.com/docs/en/zos/2.5.0?topic=security-validating-host-name-against-certificate)
+* [Representation and Verification of Domain-Based Application Service
+ Identity within Internet Public Key Infrastructure Using X.509 (PKIX)
+     Certificates in the Context of Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc6125)
 
 
 
