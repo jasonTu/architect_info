@@ -127,6 +127,7 @@
 * [MQTT和Websocket的区别是什么？](https://www.zhihu.com/question/21816631/answer/2725809202)
 * [Retransmission Rules for TCP](https://www.baeldung.com/cs/tcp-retransmission-rules)
 * [The Difference Between SO_REUSEADDR and SO_REUSEPORT](https://www.baeldung.com/linux/socket-options-difference)
+* [How does Speedtest measure my network speeds?](https://help.speedtest.net/hc/en-us/articles/360038679354-How-does-Speedtest-measure-my-network-speeds)
 
 ## 缓存
 * [Redis 和 I/O 多路复用][77]
