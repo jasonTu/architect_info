@@ -1,6 +1,9 @@
 ## Security design
 * [OWASP Threat Modelinig](https://owasp.org/www-community/Threat_Modeling)
 
+## Network attack and defense
+* [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
+
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
 
