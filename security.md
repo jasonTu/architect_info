@@ -6,6 +6,9 @@
 * [github: suricata](https://github.com/OISF/suricata)
 * [Youtube: Intrusion Detection and Prevention Systems (IDC/IPS)](https://www.youtube.com/watch?v=rnk31R-3LUQ)
 
+## CWPP (Cloud Workload Protection Platform)
+* [What is cloud workload protection security?](https://www.lacework.com/cloud-security-fundamentals/what-is-cloud-workload-security)
+
 ## Network attack and defense
 * [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
 
