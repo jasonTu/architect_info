@@ -4,6 +4,7 @@
 ## IPS & IDS
 * [What Is IPS?](https://info.support.huawei.com/info-finder/encyclopedia/en/IPS.html)
 * [github: suricata](https://github.com/OISF/suricata)
+* [Youtube: Intrusion Detection and Prevention Systems (IDC/IPS)](https://www.youtube.com/watch?v=rnk31R-3LUQ)
 
 ## Network attack and defense
 * [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
