@@ -1,6 +1,9 @@
 ## Security design
 * [OWASP Threat Modelinig](https://owasp.org/www-community/Threat_Modeling)
 
+## IPS & IDS
+* [What Is IPS?](https://info.support.huawei.com/info-finder/encyclopedia/en/IPS.html)
+
 ## Network attack and defense
 * [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
 
