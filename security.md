@@ -10,8 +10,11 @@
 * [What is cloud workload protection security?](https://www.lacework.com/cloud-security-fundamentals/what-is-cloud-workload-security)
 * [Trendmicro Cloud One](https://cloudone.trendmicro.com/docs/)
 
+
 ## Network attack and defense
 * [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
+* [Virtual Patching](https://www.youtube.com/watch?v=zGESAh9O5rc)
+* 
 
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
