@@ -14,7 +14,7 @@
 ## Network attack and defense
 * [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
 * [Virtual Patching](https://www.youtube.com/watch?v=zGESAh9O5rc)
-* 
+* [Automated Workload Protection with Virtual Patching from Trend Micro™ Deep Security™](https://www.youtube.com/watch?v=o_Lqzx7ejYg)
 
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
