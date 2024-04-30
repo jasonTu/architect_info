@@ -15,6 +15,7 @@
 
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
+* [Zero network micro-segmentation POC](https://www.youtube.com/watch?v=LA6sLYR3isg)
 
 ## Beyondcorp
 * [5分钟了解谷歌BeyondCorp零信任安全模型](https://www.aqniu.com/learn/65462.html)
