@@ -78,6 +78,8 @@
 * [密码学简史（三）--- 量子计算中的未来密码学](https://blog.csdn.net/m0_37621078/article/details/103814870)
 * [Malleability attacks against encryption without authentication](https://crypto.stackexchange.com/questions/3654/malleability-attacks-against-encryption-without-authentication)
 * [Exploring Authenticated Encryption with Associated Data](https://ez.analog.com/ez-blogs/b/engineerzone-spotlight/posts/authenticated-encryption)
+* [【密码算法 之三】分组密码工作模式 （ECB \ CBC \ CFB \ OFB \ CTR \ XTS）浅析](https://blog.csdn.net/KXue0703/article/details/120095804)
+* [分组密码的加密模式（CFB，OFB）](https://blog.csdn.net/qq_40739219/article/details/121191287)
 
 ## SSH
 * [深入了解SSH](https://zhuanlan.zhihu.com/p/235610836)
