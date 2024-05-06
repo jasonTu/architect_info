@@ -144,6 +144,7 @@
 * [How SYN cookies are used to preventing SYN Flood attack][4]
 * [What is Microsegmentation?][5]
 * [Python网络编程1--实现ARP欺骗](https://www.jianshu.com/p/c5fece21b270)
+* [VPNs: Site-to-Site vs. Remote Access](https://www.youtube.com/watch?v=KRqzuqObS64)
 
 ## SASE
 * [What Is Secure Access Service Edge (SASE)?](https://www.zscaler.com/resources/security-terms-glossary/what-is-sase)
