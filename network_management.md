@@ -4,3 +4,6 @@
 ## NETCONF
 * [华为NETCONF开发指南](https://support.huawei.com/hedex/hdx.do?docid=EDOC1100195094&id=ZH-CN_TOPIC_0302960783)
 * [华为NETCONF二次开发指南](https://support.huawei.com/hedex/hdx.do?docid=EDOC1100181291&id=ZH-CN_TOPIC_0302960783)
+
+## Common knowledge
+* [一文秒懂cli、snmp、yang、netconf、restconf、openconfig](https://zhuanlan.zhihu.com/p/690954758)
