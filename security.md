@@ -158,6 +158,10 @@
 * [IP security (IPSec)](https://www.geeksforgeeks.org/ip-security-ipsec/)
 * [Internet Key Exchange (IKE) - Phases](https://www.youtube.com/watch?v=FQk3K34M8nc)
 
+## Email Security
+* [Secure Email communication using PGP](https://takahiro-oda.medium.com/email-security-secure-email-communication-using-pgp-ad76586fccac)
+* [How Pretty Good Privacy works, and how you can use it for secure communication](https://www.freecodecamp.org/news/how-does-pretty-good-privacy-work-3f5f75ecea97/)
+
 ## SASE
 * [What Is Secure Access Service Edge (SASE)?](https://www.zscaler.com/resources/security-terms-glossary/what-is-sase)
 * [What are the Disadvantages of Secure Access Service Edge (SASE)?](https://www.sdxcentral.com/security/sase/definitions/what-is-secure-access-service-edge-sase/disadvantages-of-secure-access-service-edge-sase/)
