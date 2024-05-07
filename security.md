@@ -151,6 +151,7 @@
 * [VPNs: Site-to-Site vs. Remote Access](https://www.youtube.com/watch?v=KRqzuqObS64)
 * [An Illustrated Guide to IPsec](http://www.unixwiz.net/techtips/iguide-ipsec.html)
 * [What Is IPsec?](https://info.support.huawei.com/info-finder/encyclopedia/en/IPsec.html)
+* [IP security (IPSec)](https://www.geeksforgeeks.org/ip-security-ipsec/)
 
 ## SASE
 * [What Is Secure Access Service Edge (SASE)?](https://www.zscaler.com/resources/security-terms-glossary/what-is-sase)
