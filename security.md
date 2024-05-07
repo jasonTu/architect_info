@@ -1,6 +1,10 @@
 ## Security design
 * [OWASP Threat Modelinig](https://owasp.org/www-community/Threat_Modeling)
 
+## Compliance
+* [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
+* [OpenSSL vs FIPS enabled OpenSSL](https://security.stackexchange.com/questions/34791/openssl-vs-fips-enabled-openssl)
+
 ## IPS & IDS
 * [What Is IPS?](https://info.support.huawei.com/info-finder/encyclopedia/en/IPS.html)
 * [github: suricata](https://github.com/OISF/suricata)
