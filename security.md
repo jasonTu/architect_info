@@ -14,11 +14,18 @@
 * [What is cloud workload protection security?](https://www.lacework.com/cloud-security-fundamentals/what-is-cloud-workload-security)
 * [Trendmicro Cloud One](https://cloudone.trendmicro.com/docs/)
 
+## System Hardening
+* [LSM一瞥](https://cloud.tencent.com/developer/article/2196014)
+* [LSM vs SECCOMP](https://cloud.tencent.com/developer/article/2196013?areaId=106001)
 
 ## Network attack and defense
 * [SSH-Snake: New Self-Modifying Worm Threatens Networks](https://sysdig.com/blog/ssh-snake/)
 * [Virtual Patching](https://www.youtube.com/watch?v=zGESAh9O5rc)
 * [Automated Workload Protection with Virtual Patching from Trend Micro™ Deep Security™](https://www.youtube.com/watch?v=o_Lqzx7ejYg)
+* [攻击者侵入系统后如何提升账户权限：提权技术详细分析](https://cloud.tencent.com/developer/article/1047454)
+* [Android Backdoor GhostCtrl Records Your Audio, Video](https://www.trendmicro.com/en_us/research/17/g/android-backdoor-ghostctrl-can-silently-record-your-audio-video-and-more.html)
+* [2022蓝帽杯遇见的 SUID 提权 总结篇](https://tttang.com/archive/1793/)
+* [LINUX提权之SUID提权篇](https://juejin.cn/post/7163436481401323550)
 
 ## Micro-segmentation
 * [Deep Security: Configure east-west security][1]
@@ -71,10 +78,6 @@
 * [What is DHCP Fingerprinting?][6]
 * [What is DHCP Option?](https://www.efficientip.com/glossary/dhcp-option/)
 * [《网络攻防技术（第2版）》 —2.5.2　网络设备识别](https://bbs.huaweicloud.com/blogs/detail/138660)
-
-## Attack
-* [2022蓝帽杯遇见的 SUID 提权 总结篇](https://tttang.com/archive/1793/)
-* [LINUX提权之SUID提权篇](https://juejin.cn/post/7163436481401323550)
 
 ## Cipher
 * [密码学简史（一）--- 谍战中的古典密码学](https://blog.csdn.net/m0_37621078/article/details/103792795)
