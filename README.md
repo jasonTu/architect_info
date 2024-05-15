@@ -11,6 +11,7 @@
 * [为什么要字节对齐？](https://blog.51cto.com/u_13267193/5371069)
 * [What is Valgrind and why we need it](https://alexott.net/en/writings/prog-checking/Valgrind.html)
 * [C++性能优化—CPU占用分析](https://blog.yanjingang.com/?p=7197)
+* [程序开发、调试、性能分析的一些工具和方法](https://jameywoo.github.io/post/%E8%B0%83%E8%AF%95%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B7%A5%E5%85%B7%E5%92%8C%E6%96%B9%E6%B3%95/)
 
 ## Python
 * [How to - build and distribute a CLI Tool with Python](https://medium.com/nerd-for-tech/how-to-build-and-distribute-a-cli-tool-with-python-537ae41d9d78)
