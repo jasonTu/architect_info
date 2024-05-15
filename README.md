@@ -10,6 +10,7 @@
 * [详解C/C++中的static和extern](https://blog.51cto.com/u_13669690/5037433)
 * [为什么要字节对齐？](https://blog.51cto.com/u_13267193/5371069)
 * [What is Valgrind and why we need it](https://alexott.net/en/writings/prog-checking/Valgrind.html)
+* [C++性能优化—CPU占用分析](https://blog.yanjingang.com/?p=7197)
 
 ## Python
 * [How to - build and distribute a CLI Tool with Python](https://medium.com/nerd-for-tech/how-to-build-and-distribute-a-cli-tool-with-python-537ae41d9d78)
