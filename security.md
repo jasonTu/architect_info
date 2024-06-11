@@ -171,9 +171,10 @@
 * [What Is Secure Access Service Edge (SASE)?](https://www.zscaler.com/resources/security-terms-glossary/what-is-sase)
 * [What are the Disadvantages of Secure Access Service Edge (SASE)?](https://www.sdxcentral.com/security/sase/definitions/what-is-secure-access-service-edge-sase/disadvantages-of-secure-access-service-edge-sase/)
 
-## 纠错码
+## 纠错码，纠删码
 * [信道编码之RS纠删码](https://www.jianshu.com/p/a3316b8fb87f)
 * [golang分布式存储 读书笔记(3)——数据冗余之RS码](https://www.jianshu.com/p/e3a83e694d4f)
+* [All You Need to Know About CRC16: Detecting Errors in Data Transmission](https://fastercapital.com/content/All-You-Need-to-Know-About-CRC16--Detecting-Errors-in-Data-Transmission.html)
 
 ## IoT
 * [IoT security (internet of things security)](https://www.techtarget.com/iotagenda/definition/IoT-security-Internet-of-Things-security)
