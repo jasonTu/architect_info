@@ -1,6 +1,9 @@
 ## Security design
 * [OWASP Threat Modelinig](https://owasp.org/www-community/Threat_Modeling)
 
+## Attack
+* [暴力破解和彩虹表攻击的区别与联系 ](https://www.cnblogs.com/lsdb/p/10038835.html)
+
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
 * [OpenSSL vs FIPS enabled OpenSSL](https://security.stackexchange.com/questions/34791/openssl-vs-fips-enabled-openssl)
