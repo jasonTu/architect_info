@@ -3,6 +3,7 @@
 
 ## Attack
 * [暴力破解和彩虹表攻击的区别与联系 ](https://www.cnblogs.com/lsdb/p/10038835.html)
+* [SQL Injection: 基于时间的盲注](https://cloud.tencent.com/developer/article/2303545)
 
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
