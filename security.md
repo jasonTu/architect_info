@@ -166,6 +166,8 @@
 * [Internet Key Exchange (IKE) - Phases](https://www.youtube.com/watch?v=FQk3K34M8nc)
 * [RFC: Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/rfc5996)
 * [一文读懂PPTP、L2TP、IPSec、OpenVPN和SSTP代理协议](https://zhuanlan.zhihu.com/p/612041257)
+* [What is 802.1X? How Does it Work?](https://www.securew2.com/solutions/802-1x)
+* [What Is 802.1X?](https://info.support.huawei.com/info-finder/encyclopedia/en/802.1X.html)
 
 ## Email Security
 * [Secure Email communication using PGP](https://takahiro-oda.medium.com/email-security-secure-email-communication-using-pgp-ad76586fccac)
