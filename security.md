@@ -13,6 +13,7 @@
 * [What Is IPS?](https://info.support.huawei.com/info-finder/encyclopedia/en/IPS.html)
 * [github: suricata](https://github.com/OISF/suricata)
 * [Youtube: Intrusion Detection and Prevention Systems (IDC/IPS)](https://www.youtube.com/watch?v=rnk31R-3LUQ)
+* [Intrusion Prevention: Signatures and Actions](https://www.ciscopress.com/articles/article.asp?p=471095)
 
 ## CWPP (Cloud Workload Protection Platform)
 * [What is cloud workload protection security?](https://www.lacework.com/cloud-security-fundamentals/what-is-cloud-workload-security)
