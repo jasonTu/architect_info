@@ -5,6 +5,13 @@
 * [暴力破解和彩虹表攻击的区别与联系 ](https://www.cnblogs.com/lsdb/p/10038835.html)
 * [SQL Injection: 基于时间的盲注](https://cloud.tencent.com/developer/article/2303545)
 
+## AAA
+### Authentication
+* [PPP Authentication Protocols](https://datatracker.ietf.org/doc/rfc1334/)
+* [CHAP协议抓包分析](https://www.cnblogs.com/xubuji/p/12915947.html)
+* [wireshark抓取点到点PPP协议交互报文（配置篇）](https://blog.51cto.com/u_9691128/4568861)
+* [华为：ppp链路协商抓包分析（详细）](https://blog.csdn.net/qq_47529104/article/details/119516574)
+
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
 * [OpenSSL vs FIPS enabled OpenSSL](https://security.stackexchange.com/questions/34791/openssl-vs-fips-enabled-openssl)
