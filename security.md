@@ -11,6 +11,14 @@
 * [CHAP协议抓包分析](https://www.cnblogs.com/xubuji/p/12915947.html)
 * [wireshark抓取点到点PPP协议交互报文（配置篇）](https://blog.51cto.com/u_9691128/4568861)
 * [华为：ppp链路协商抓包分析（详细）](https://blog.csdn.net/qq_47529104/article/details/119516574)
+### Tacacs+
+* [Tacacs+ RFC](https://datatracker.ietf.org/doc/rfc8907/)
+* [Tacacs-协议交互报文抓包示例](https://blog.csdn.net/qq_38265137/article/details/108944530)
+* [使用密码解密TACACS+的报文](https://www.cnblogs.com/MomentsLee/p/12821240.html)
+### Radius
+* [Radius RFC](https://datatracker.ietf.org/doc/rfc2865/)
+* [radius chap 加/解密算法 抓包分析](https://blog.csdn.net/h934070878/article/details/124275821)
+* [Radius协议抓包分析](https://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=210797)
 
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
