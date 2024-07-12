@@ -21,6 +21,7 @@
 * [Radius协议抓包分析](https://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=210797)
 ### Wifi security
 * [WPA and WPA2 4-Way Handshake](https://networklessons.com/cisco/ccnp-encor-350-401/wpa-and-wpa2-4-way-handshake)
+* [WPA2-Enterprise Authentication Protocols Comparison](https://www.securew2.com/blog/wpa2-enterprise-authentication-protocols-comparison)
 
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
