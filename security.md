@@ -19,6 +19,8 @@
 * [Radius RFC](https://datatracker.ietf.org/doc/rfc2865/)
 * [radius chap 加/解密算法 抓包分析](https://blog.csdn.net/h934070878/article/details/124275821)
 * [Radius协议抓包分析](https://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=210797)
+### Wifi security
+* [WPA and WPA2 4-Way Handshake](https://networklessons.com/cisco/ccnp-encor-350-401/wpa-and-wpa2-4-way-handshake)
 
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
