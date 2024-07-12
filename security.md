@@ -22,6 +22,7 @@
 ### Wifi security
 * [WPA and WPA2 4-Way Handshake](https://networklessons.com/cisco/ccnp-encor-350-401/wpa-and-wpa2-4-way-handshake)
 * [WPA2-Enterprise Authentication Protocols Comparison](https://www.securew2.com/blog/wpa2-enterprise-authentication-protocols-comparison)
+* [4-WAY HANDSHAKE](https://www.wifi-professionals.com/2019/01/4-way-handshake)
 
 ## Compliance
 * [NGINX Plus FIPS Compliance](https://docs.nginx.com/nginx/fips-compliance-nginx-plus/)
