@@ -129,6 +129,7 @@
 * [an ssh subsystem that does ls](https://superuser.com/questions/843275/an-ssh-subsystem-that-does-ls)
 * [Starting the sshd daemon](https://www.ibm.com/docs/en/zos/2.2.0?topic=administrators-starting-sshd-daemon)
 * [Steps for starting the sshd daemon under inetd](https://www.ibm.com/docs/en/zos/2.3.0?topic=SSLTBW_2.3.0/com.ibm.zos.v2r3.foto100/inetdstart.html)
+* [Configuring SSH Certificate-Based Authentication: it's next level of key-based authentication](https://www.sidechannel.blog/en/configuring-ssh-certificate-based-authentication/)
 
 ## DPI
 * [DPI (Deep Packet Inspection) 深度包检测技术](https://www.jianshu.com/p/c7cebdf1f9df)
