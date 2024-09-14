@@ -95,6 +95,7 @@
 * [MySQL Replication 主从复制全方位解决方案][71]
 * [阿里二面：了解 MySQL 事务底层原理吗][109]
 * [颠覆认知——Redis会遇到的15个「坑」，你踩过几个？][121]
+* [快速带你读懂MySQL的Binlog写入机制](https://www.51cto.com/article/757127.html)
 
 ## 网络
 * [深入理解 TCP 协议：从原理到实战【超详细】-上](https://zhuanlan.zhihu.com/p/566466901)
