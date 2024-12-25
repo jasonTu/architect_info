@@ -124,6 +124,7 @@
 * [NAT的四种类型][107]
 * [How tunneling services like 'Localtunnel' works without SSH?][108]
 * [NAT内网穿透][118]
+* [P2P学习（一）NAT的四种类型以及类型探测](https://www.cnblogs.com/ssyfj/p/14791064.html)
 * [一文彻底搞懂加密、数字签名和数字证书！][126]
 * [什么是VLAN][127]
 * [图解：二层与三层交换机之间到底有什么区别?](https://www.51cto.com/article/708872.html)
